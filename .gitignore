@@ -1,6 +1,5 @@
 build/
 *.gcda
-edge-impulse-sdk/
 CMakeLists.txt
 deploy.zip
 *.o
